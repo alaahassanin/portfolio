@@ -1,0 +1,31 @@
+ALAA PORTFOLIO — EASY EDIT EDITION
+
+EDIT ALL PROJECTS IN ONE PLACE:
+projects-data.js
+
+To update a project:
+1. Open projects-data.js on GitHub and select Edit (pencil).
+2. Find a project by its "id" (for example "taihan").
+3. Change fields such as en/ar, descriptionEn/descriptionAr, roleEn/roleAr, resultsEn/resultsAr, img or links.
+4. Click Commit changes. Changes to both homepage cards and project pages publish automatically.
+
+To add a project:
+1. Copy one complete object between { and } in projects-data.js.
+2. Paste after the last object with a comma between the two objects.
+3. Give it a UNIQUE id, an image path like assets/new-project.png, and fill bilingual text.
+4. Upload the image to the assets/ folder on GitHub. Commit.
+5. It will appear on the homepage and open a dedicated case-study page, without creating another HTML page.
+
+Categories: Campaigns, Social, Strategy. catAr: حملات, سوشيال, استراتيجية.
+Links: add objects to "links" with en, ar, url keys. Links to PDFs inside assets can use assets/filename.pdf.
+
+IMPORTANT: Upload the whole website structure to the GitHub repository root.
+Keep index.html, project.html, and projects-data.js at the top level; assets/ is a folder.
+Existing projects/ files are compatibility redirects for old links.
+
+TIP: Do not rename the existing photo files unless you update the path in projects-data.js.
+Preview online with GitHub Pages. Changes can take a couple of minutes to appear.
+
+PROJECT PHOTO AND STRATEGY LINKS SHOULD BE SHARED ONLY WITH PERMISSION.
+
+Updated high-quality work image thumbnails for: tikmall, rukn, chance, dar, mt, bakery, kasrat
