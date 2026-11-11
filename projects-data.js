@@ -366,5 +366,39 @@ window.PORTFOLIO_PROJECTS = [
       "assets/sec.webp"
     ],
     "evidenceImages": false
+  },
+  {
+    "id": "ibn-rushd-college",
+    "en": "Ibn Rushd College — Course Enrollment Videos",
+    "ar": "كلية ابن رشد — حملة تصوير للكورسات",
+    "cat": "Campaigns",
+    "catAr": "حملات",
+    "roleEn": "10 video scripts · Filming concepts · Editing follow-up",
+    "roleAr": "كتابة سكريبتات 10 فيديوهات · تطوير أفكار التصوير · متابعة المونتاج",
+    "resultsEn": "Reported 75% lower cost per lead (SAR 100 → SAR 25) · Snapchat: 387 leads · Meta: 190 messaging conversations",
+    "resultsAr": "انخفاض تكلفة العميل المحتمل بنسبة 75% حسب إفادة الميديا باير (من 100 إلى 25 ريال) · سناب شات: 387 عميل محتمل · ميتا: 190 محادثة مراسلة",
+    "page": 1,
+    "img": "assets/ibn-rushd-cover.jpg",
+    "descriptionEn": "I wrote all ten video scripts, developed filming ideas and followed up on the edits for a Saudi college course campaign. The media buyer reported a reduction in cost per lead from approximately SAR 100 to SAR 25 after the new creative launched; separate ad dashboards document campaign response.",
+    "descriptionAr": "كتبت سكريبتات الفيديوهات العشرة، وطورت أفكار التصوير وتابعت المونتاج لحملة تروّج لكورسات كلية ابن رشد بالسعودية. ووفق إفادة الميديا باير انخفضت تكلفة العميل المحتمل من نحو 100 إلى 25 ريال بعد نشر المحتوى الجديد، مع وجود تقارير منفصلة لنتائج الإعلانات.",
+    "links": [
+      {
+        "en": "Read the full case study",
+        "ar": "اقرئي دراسة الحالة الكاملة",
+        "url": "ibn-rushd.html"
+      },
+      {
+        "en": "Watch the campaign videos",
+        "ar": "شاهدي فيديوهات الحملة",
+        "url": "https://drive.google.com/drive/folders/1zD7s_7tqugdhU77WODzhPagEzeN2Sb3k?usp=drive_link"
+      }
+    ],
+    "gallery": [
+      "assets/ibn-rushd-cover.jpg",
+      "assets/ibn-rushd-snap-overview.jpg",
+      "assets/ibn-rushd-snap-campaigns.jpg",
+      "assets/ibn-rushd-meta-results.jpg"
+    ],
+    "evidenceImages": false
   }
 ];
